@@ -15,7 +15,7 @@ I'm currently learning Full Stack Web Developement
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prathmesh49&theme=buddhism&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
