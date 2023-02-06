@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning SQL.<br><br>👯 I’m looking to collaborate on any awesome projects.<br><br>💬 Ask me about JAVA, JavaScript, HTML, CSS.<br><br>📫 How to reach me -> drop me a mail at prathmesh_kurane@yahoo.com<br><br>
+🌱 I’m currently learning SQL.<br><br>👯 I’m looking to collaborate on any awesome projects.<br><br>💬 Ask me about JAVA, JavaScript, HTML, CSS.<br><br>📫 How to reach me -> drop me a mail at prathmesh_kurane@yahoo.com<br><br> 📋Visit My Portfolio -> https://prathmesh49.github.io
 
 
 ## 🌐 Socials:
