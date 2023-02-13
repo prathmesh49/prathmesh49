@@ -1,7 +1,7 @@
 <img src="https://brytdesigns.com/_next/image?url=https%3A%2F%2Fadmin.brytdesigns.com%2Fwp-content%2Fuploads%2F2019%2F12%2Fman-with-sticky-note-that-says-code.jpg&w=3840&q=75" alt="">
 
 # 💫 About Me:
-🌱 I’m currently learning SQL.<br><br>👯 I’m looking to collaborate on any awesome projects.<br><br>💬 Ask me about JAVA, JavaScript, HTML, CSS.<br><br>📫 How to reach me -> drop me a mail at prathmesh_kurane@yahoo.com<br><br>  
+🌱 I’m currently learning JDBC.<br><br>👯 I’m looking to collaborate on any awesome projects.<br><br>💬 Ask me about JAVA, JavaScript, HTML, CSS.<br><br>📫 How to reach me -> drop me a mail at prathmesh_kurane@yahoo.com<br><br>  
 
 
 ## 🌐 Socials:
