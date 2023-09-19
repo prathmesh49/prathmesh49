@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" height="400" width="700">
 
 # 💫 About Me:
-🌱 I'm a passionate software developer currently focused on learning Spring. I hold a degree in [Your Degree] from [Your University]. I'm enthusiastic about building innovative projects and solving real-world problems through technology.<br><br>
+🌱 I'm a passionate software developer currently focused on learning Spring. I hold a degree in B.Tech. In Mechanical Engineering from DBATU. I'm enthusiastic about building innovative projects and solving real-world problems through technology.<br><br>
 👯 I'm always open to collaborate on exciting projects.<br><br>
 💬 Ask me about JAVA, Spring, Hibernate, JavaScript, HTML, CSS, and more.<br><br>
 📫 Reach out to me via email at prathmesh_kurane@yahoo.com<br>
