@@ -1,4 +1,4 @@
-<img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Image" height="150" width="150">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Profile Image" >
 
 # 💫 About Me:
 🌱 I'm a passionate software developer currently focused on learning Spring. I hold a degree in [Your Degree] from [Your University]. I'm enthusiastic about building innovative projects and solving real-world problems through technology.<br><br>
